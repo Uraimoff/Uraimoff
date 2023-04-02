@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align='center'>Yo wassup, I'm Uraimov Ibrohim (￣o￣) . z Z</h1>
 <div align='start'>
-<a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="250" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"></a> <br><samp>
+<a href="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe"><img align="left" width="250" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"></a> <br><samp>
           
           
           
