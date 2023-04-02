@@ -1,7 +1,18 @@
 
 <div align="center">
 <h1 align='center'>Yo wassup, I'm Uraimov Ibrohim (￣o￣) . z Z</h1>
-
+<div text-align='start'>
+<a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="250" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"></a> <br><samp>
+          
+          
+          
+  👩🏼‍💻 i work on Perfect Result Group <br> 
+  🚲 based in uzbekistan <br>
+  🎧 listening to: <br></samp>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
+<br><br><br><br><br>
+          </div>
+<samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23">find me on twitter [@Lebedeff5776](https://www.twitter.com/Lebedeff5776) 💭
 
 <!-- <h3>🧰Languages and Tools</h3>
 <img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
