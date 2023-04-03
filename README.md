@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align='center'>Yo wassup, I'm Uraimov Ibrohim (￣o￣) . z Z</h1>
+<h1 align='center'>Yo wassup, I'm Ibrohim Uraimov (￣o￣) . z Z</h1>
 <div align='start'>
 <img align="left" width="250" src="https://thumbs.gfycat.com/YearlyLoneBarnowl-max-1mb.gif"> <br><samp>
           
