@@ -9,7 +9,7 @@
   👩🏼‍💻 i work on Perfect Result Group <br> 
   🚲 based in uzbekistan <br>
   🎧 listening to: <br></samp>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22thftxib35zraloo4ct2unwa&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31woplcjlcknoyjwjamilsucfyhm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) <br>
 <br><br><br><br><br>
           </div>
 <samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23">find me on twitter [@Lebedeff5776](https://www.twitter.com/Lebedeff5776) 💭
@@ -45,7 +45,7 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=uraimoff&show_icons=true&theme=react)
+![Uraimoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=uraimoff&show_icons=true&theme=react)
 
 #
 ###
