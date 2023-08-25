@@ -13,7 +13,7 @@ listening to: <br></samp>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,react,vscode,codepen,sass,threejs,ts,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=redux,react,vue,vite,vscode,codepen,sass,threejs,ts,js,css,html" />
   </a>
 </p>
 <p href="https://discord.gg/onlp" align="center">
