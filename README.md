@@ -3,7 +3,6 @@
 <h1 align='center'>Yo wassup, I'm Ibrohim Uraimov <img src="https://media1.giphy.com/media/CYyzXsZ8ZfCoOSXnbV/giphy.gif?cid=ecf05e47gqjmlfah6na2sqd0dukvtd90sgeigusb0srcjdtx&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="25px"> . z Z</h1>
 <div align='center'>
 <img align="left"  width="250" src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif"><br><samp >
-<!--     //https://s8.gifyu.com/images/979447220829032478.gif       -->
 listening to: <br></samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31woplcjlcknoyjwjamilsucfyhm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) <br>
 <br><br><br><br><br>
