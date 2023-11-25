@@ -54,14 +54,16 @@ class Attributes(Uraimoff):
 
 ![Uraimoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=uraimoff&show_icons=true&theme=react)
 
-#
-###
 
-[![Uraimoff's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=uraimoff&theme=react)](https://github.com/uraimoff/github-readme-activity-graph)
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uraimoff&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uraimoff&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23282C34&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUraimoff&count_bg=%2354C200&title_bg=%23555555&icon=origin.svg&icon_color=%23FF0000&title=Profile+views&edge_flat=false"/></a>
 
 </div>
