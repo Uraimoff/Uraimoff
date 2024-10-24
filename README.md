@@ -5,7 +5,7 @@
 <img align="left"  width="250" src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif"><br><samp >
 	
 listening to: <br></samp>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31woplcjlcknoyjwjamilsucfyhm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) <br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31woplcjlcknoyjwjamilsucfyhm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31woplcjlcknoyjwjamilsucfyhm&redirect=true) <br>
 <br><br><br><br><br>
           </div>
 
