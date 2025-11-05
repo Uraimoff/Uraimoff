@@ -32,7 +32,7 @@ class Attributes(Uraimoff):
 	@staticmethod
 	def life() -> tuple:
 		langs         = ['Uzbek', 'Russian', 'English']
-		age           = 20
+		age           = 22
 		
 		return langs, age
 	
@@ -43,7 +43,7 @@ class Attributes(Uraimoff):
 			'intermediate': ['javascript', 'typescript'],
 			'learning': ['python']
 		}
-		specialities  = ['frontend development']
+		specialities  = ['frontend development, graphic design, ui/ux, project management, product management']
 		environnement = ['vscode']
 		
 		return langs, specialities, environnement
